@@ -1,0 +1,2 @@
+# BTVN-LAN-4
+BÀI TẬP VỀ NHÀ LẦN 4 C++ GENETIC PQK
